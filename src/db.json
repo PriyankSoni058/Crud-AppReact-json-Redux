@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Mr. Darshil Shah",
+      "address": "Anushri Acolade-2",
+      "email": "Darshil.shah@gmail.com",
+      "contact": "9876543210",
+      "id": 2
+    },
+    {
+      "name": "Mr. Akshay Chudasama",
+      "address": "iSquare",
+      "email": "Akshay.chudasama@gmail.com",
+      "contact": "9876543211",
+      "id": 3
+    },
+    {
+      "name": "Mr. Mahimna Mehta",
+      "address": "iSquare",
+      "email": "Mahimna.mehta@gmail.com",
+      "contact": "9876543210",
+      "id": 4
+    },
+    {
+      "name": "Mr. Priyank Pataliya",
+      "address": "iSquare",
+      "email": "priyanksoni@gmail.com",
+      "contact": "9876543210",
+      "id": 5
+    },
+    {
+      "name": "Mr. Nilesh Solanki",
+      "email": "Nilesh.solanki@gmail.com",
+      "contact": "9876543210",
+      "address": "i Square",
+      "id": 6
+    }
+  ]
+}
